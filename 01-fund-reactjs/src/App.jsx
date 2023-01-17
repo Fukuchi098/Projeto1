@@ -1,6 +1,7 @@
 import { Header } from './compenents/Header';
 import { Sidebar } from './compenents/Sidebar';
 import { Post } from './compenents/Post';
+import { Comment } from './compenents/Comment';
 
 import styles from './App.module.css';
 
